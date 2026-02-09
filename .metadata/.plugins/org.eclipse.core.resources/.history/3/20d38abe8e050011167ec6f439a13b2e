@@ -1,0 +1,11 @@
+package castingTest;
+
+public class CastingTest02 {
+	public static void main(String[] args) {
+		System.out.println("A" + 10);
+		System.out.println('A');
+		
+		int a = 'A';
+		System.out.println(a);
+	}
+}

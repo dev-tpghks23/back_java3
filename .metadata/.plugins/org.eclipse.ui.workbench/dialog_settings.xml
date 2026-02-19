@@ -33,6 +33,11 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\back_0900_ksh\java\study\java_day06\workspace\class.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day06\workspace\method.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day05\workspace\array.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day04\workspace\array.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day04\workspace\control.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day03\workspace\control.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day02\workspace\operator.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day02\workspace\input.zip"/>

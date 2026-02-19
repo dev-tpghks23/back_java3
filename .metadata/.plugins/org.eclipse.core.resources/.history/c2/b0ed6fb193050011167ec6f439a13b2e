@@ -1,7 +1,0 @@
-package castingTask;
-
-public class CastingTask02 {
-	public static void main(String[] args) {
-		
-	}
-}

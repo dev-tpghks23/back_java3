@@ -35,6 +35,11 @@
 		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
 		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
 		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\back_0900_ksh\java\study\java_day15\workspace\date.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day15\workspace\thread.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day15\workspace\webSocket.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day14\workspace\stream.zip"/>
+			<item value="C:\back_0900_ksh\java\study\java_day13\workspace\stream.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day13\workspace\collection.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day12\workspace\collection.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day11\workspace\exception.zip"/>
@@ -50,11 +55,6 @@
 			<item value="C:\back_0900_ksh\java\study\java_day06\workspace\class.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day06\workspace\method.zip"/>
 			<item value="C:\back_0900_ksh\java\study\java_day05\workspace\array.zip"/>
-			<item value="C:\back_0900_ksh\java\study\java_day04\workspace\array.zip"/>
-			<item value="C:\back_0900_ksh\java\study\java_day04\workspace\control.zip"/>
-			<item value="C:\back_0900_ksh\java\study\java_day03\workspace\control.zip"/>
-			<item value="C:\back_0900_ksh\java\study\java_day02\workspace\operator.zip"/>
-			<item value="C:\back_0900_ksh\java\study\java_day02\workspace\input.zip"/>
 		</list>
 		<section name="ZipFileExportWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="706"/>
@@ -65,8 +65,8 @@
 		</section>
 	</section>
 	<section name="PropertyDialog.dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="378"/>
-		<item key="DIALOG_Y_ORIGIN" value="198"/>
+		<item key="DIALOG_X_ORIGIN" value="426"/>
+		<item key="DIALOG_Y_ORIGIN" value="207"/>
 		<item key="DIALOG_WIDTH" value="1010"/>
 		<item key="DIALOG_HEIGHT" value="718"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
